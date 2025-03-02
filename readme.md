@@ -1,4 +1,4 @@
-# easyitemindex (currently w.i.p)
+# easyitemindex
 
 **easyitemindex is a solution for inventory management**
 
